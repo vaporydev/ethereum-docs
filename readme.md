@@ -1,4 +1,4 @@
-# Ethereum Docs Website
+# Vapory Docs Website
 
 ## Installation
 
